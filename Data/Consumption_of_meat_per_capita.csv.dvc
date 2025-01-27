@@ -1,0 +1,5 @@
+outs:
+- md5: 49b58fa8ae4dd7f13d00cb6be831e5e7
+  size: 728156
+  hash: md5
+  path: Consumption_of_meat_per_capita.csv

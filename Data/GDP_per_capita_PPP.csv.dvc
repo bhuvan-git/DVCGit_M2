@@ -1,0 +1,5 @@
+outs:
+- md5: 7c08f7066905dc5f7b8acfb1b60ab1f7
+  size: 212771
+  hash: md5
+  path: GDP_per_capita_PPP.csv
